@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=wave&color=3776AB&height=180&section=header&text=Hey%20Everyone!&fontSize=70&animation=fadeIn&fontAlign=80" width="100%" />
+<img src="https://i.ibb.co/L5T4Fq0/Galih-Header-Data-Engineer-Final.png" alt="Hey Everyone! Galih RD Rakasiwi" width="100%" />
 
 <br/>
 
