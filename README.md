@@ -1,57 +1,12 @@
-# Halo, Saya RD Galih Rakasiwi 👋
+<div align="center">
 
-### Data Engineer | Tech Enthusiast | Problem Solver
+<img src="https://capsule-render.vercel.app/render?type=wave&color=3776AB&height=180&section=header&text=Hey%20Everyone!&fontSize=70&animation=fadeIn&fontAlign=80" width="100%" />
 
-Saya adalah seorang Data Engineer yang berfokus pada pembangunan infrastruktur data yang andal, efisien, dan *scalable*. Berpengalaman dalam mengubah data mentah menjadi aliran data siap pakai (*data pipelines*) untuk mendukung pengambilan keputusan yang tepat.
+<br/>
 
----
-
-## 🚀 Tentang Saya
-
-- 💼 Saat ini bekerja sebagai **Data Engineer** (Sebelumnya berfokus pada *Web Scraping & Crawling*).
-- 🎓 Mahasiswa **Sistem Informasi** di Universitas Terbuka.
-- 🛠️ Senang mengulik otomatisasi data, *streaming pipeline*, dan arsitektur database.
-- ⚡ Di luar coding, saya menyukai dunia fashion (*Gorpcore & City Boy aesthetics*), sepak bola (sebagai Goalkeeper 🧤), dan aktif di Strava.
-
----
-
-## 🛠️ Tech Stack & Alat Kerja
-
-### 🐍 Languages & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=dbeaver&logoColor=white" alt="SQL" />
-</p>
-
-### ⚙️ Data Engineering & Pipelines
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Web_Scraping-41B883?style=for-the-badge&logo=adguard&logoColor=white" alt="Scraping" />
-</p>
-
-### 🗄️ Database & Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/S3_Storage-569A31?style=for-the-badge&logo=minio&logoColor=white" alt="S3 Storage" />
-</p>
-
----
-
-## 📊 Statistik GitHub
+<h2><b>Let's Connect and build something great!</b> 💬</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galih752&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Galih" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galih752&layout=compact&theme=tokyonight" alt="Bahasa Populer Galih" height="180px" />
-</p>
-
----
-
-## 📫 Mari Terhubung!
-
-Jika Anda ingin berdiskusi tentang arsitektur data, kolaborasi proyek, atau sekadar menyapa, silakan hubungi saya melalui:
-
-<p align="left">
   <a href="https://www.linkedin.com/in/rd-galih-rakasiwi-3626b5246/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -60,5 +15,42 @@ Jika Anda ingin berdiskusi tentang arsitektur data, kolaborasi proyek, atau seka
   </a>
 </p>
 
----
-<p align="center">🤖 <i>"In data we trust, in pipelines we build."</i></p>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="35px"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" height="35px"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="35px"/>
+  <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white" height="35px"/>
+</p>
+
+<br/>
+<br/>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2NWF6dWJ2YXp5b3Z1dGdzczRncnByenJvMTJ2bnBrOWgxYWpociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz61j9c1rD89m56j0c/giphy.gif" alt="Deep Tech Focused Data Engineer" width="450" />
+
+<br/>
+<br/>
+<br/>
+
+<table align="center">
+<tr>
+<td>
+
+### 🚀 Data Infrastructure Engineer
+*Crafting efficient pathways for data to flow and be utilized.*
+
+I am a Data Engineer focused on building robust, automated data pipelines, optimizing database performance, and designing scalable data architectures. With a background in high-volume web scraping and data ingestion.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galih752&show_icons=true&theme=tokyonight&hide_border=true&title_color=3776AB" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galih752&layout=compact&theme=tokyonight&hide_border=true&title_color=3776AB" width="45%" />
+</p>
+
+</div>
