@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.ibb.co/L5T4Fq0/Galih-Header-Data-Engineer-Final.png" alt="Hey Everyone! Galih RD Rakasiwi" width="100%" />
-
 <br/>
 
 <h2><b>Let's Connect and build something great!</b> 💬</h2>
@@ -24,14 +22,6 @@
   <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white" height="35px"/>
 </p>
 
-<br/>
-<br/>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2NWF6dWJ2YXp5b3Z1dGdzczRncnByenJvMTJ2bnBrOWgxYWpociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz61j9c1rD89m56j0c/giphy.gif" alt="Deep Tech Focused Data Engineer" width="450" />
-
-<br/>
-<br/>
-<br/>
 
 <table align="center">
 <tr>
