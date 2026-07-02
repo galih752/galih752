@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white" height="35px"/>
 </p>
 
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td>
 
@@ -38,9 +37,10 @@ I am a Data Engineer focused on building robust, automated data pipelines, optim
 
 <br/>
 
+<!-- Bagian Statistik yang Diperbaiki -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galih752&show_icons=true&theme=tokyonight&hide_border=true&title_color=3776AB" width="48%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galih752&layout=compact&theme=tokyonight&hide_border=true&title_color=3776AB" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=galih752&show_icons=true&theme=tokyonight&hide_border=true&title_color=3776AB" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galih752&layout=compact&theme=tokyonight&hide_border=true&title_color=3776AB" width="45%" alt="Top Langs" />
 </p>
 
 </div>
