@@ -37,10 +37,10 @@ I am a Data Engineer focused on building robust, automated data pipelines, optim
 
 <br/>
 
-<!-- Bagian Statistik yang Diperbaiki -->
+<!-- Statistik Menggunakan URL shion.dev yang Terbukti Aman -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galih752&show_icons=true&theme=tokyonight&hide_border=true&title_color=3776AB" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galih752&layout=compact&theme=tokyonight&hide_border=true&title_color=3776AB" width="45%" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api?username=galih752&show_icons=true&theme=tokyonight&hide_border=true&title_color=3776AB" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=galih752&layout=compact&theme=tokyonight&hide_border=true&title_color=3776AB" width="45%" alt="Top Langs" />
 </p>
 
 </div>
